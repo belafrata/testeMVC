@@ -27,3 +27,4 @@ C:\Users\ifrat\OneDrive\Área de Trabalho\testeMVC\testeMVC\obj\Debug\net8.0\ref
 C:\Users\ifrat\OneDrive\Área de Trabalho\testeMVC\testeMVC\obj\Debug\net8.0\testeMVC.pdb
 C:\Users\ifrat\OneDrive\Área de Trabalho\testeMVC\testeMVC\obj\Debug\net8.0\testeMVC.genruntimeconfig.cache
 C:\Users\ifrat\OneDrive\Área de Trabalho\testeMVC\testeMVC\obj\Debug\net8.0\ref\testeMVC.dll
+C:\Users\ifrat\OneDrive\Área de Trabalho\testeMVC\testeMVC\obj\Debug\net8.0\testeMVC.sourcelink.json
