@@ -8,7 +8,7 @@ namespace testeMVC.Models
         public int? PessoaId { get; set; }
         [Display(Name = "Nome do cliente")]
         public string? Nome { get; set; }
-        [Display(Name = "Email do cliente")]
+        [EmailAddress(ErrorMessage = "Endereço de Email Inválido")]
         public string? Email { get; set; }
     }
 }
